@@ -9,7 +9,7 @@ Here are some projects related to Natural Language Processing:
 ### Twitter Sentiment Analysis
 
 - **Description:** Analyzing the sentiment of tweets using NLP techniques.
-- **Path:** [twitter-sentiment-analysis](link/to/twitter-sentiment-analysis)
+- **Path:** [twitter-sentiment-analysis](Twitter-Sentiment-Analysis)
 
 
 ## Contributing
